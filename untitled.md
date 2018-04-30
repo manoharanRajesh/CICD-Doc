@@ -9,7 +9,5 @@
 * [Test-CI](https://github.com/manoharanRajesh/test-ci) : [https://github.com/manoharanRajesh/test-ci](https://github.com/manoharanRajesh/test-ci)
 * [PCF-ERS-DEMO](https://github.com/manoharanRajesh/pcf-ers-demo) : [https://github.com/manoharanRajesh/pcf-ers-demo](https://github.com/manoharanRajesh/pcf-ers-demo)
 
-## VSTS
 
-* [https://marketplace.visualstudio.com/](https://marketplace.visualstudio.com/)
-* 
+
