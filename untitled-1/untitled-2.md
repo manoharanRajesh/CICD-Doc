@@ -8,7 +8,9 @@
   *  Click New definition.
   * Select GitHub as source
   * Authorize with your personal Tokens [https://github.com/settings/tokens](https://github.com/settings/tokens)
-  * 
+  * Select Template as Maven
+  * Choose Agent
+  * Save and queue
 
 
 
