@@ -8,6 +8,7 @@
 * [Jhipster-test-app ](https://github.com/manoharanRajesh/jhipster-test-app): [https://github.com/manoharanRajesh/jhipster-test-app](https://github.com/manoharanRajesh/jhipster-test-app)
 * [Test-CI](https://github.com/manoharanRajesh/test-ci) : [https://github.com/manoharanRajesh/test-ci](https://github.com/manoharanRajesh/test-ci)
 * [PCF-ERS-DEMO](https://github.com/manoharanRajesh/pcf-ers-demo) : [https://github.com/manoharanRajesh/pcf-ers-demo](https://github.com/manoharanRajesh/pcf-ers-demo)
+* VSTS  - [https://docs.microsoft.com/en-us/vsts/?view=vsts](https://docs.microsoft.com/en-us/vsts/?view=vsts)
 
 
 
